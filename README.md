@@ -3,7 +3,8 @@
 <img src="./nikita-chougule.jpeg" width="800">
 </p>
 <h3 align="center">A passionate DevOps Engineer From India. 
-
+AWS Cloud | DevOps Engineer | Terraform | Kubernetes | CI/CD
+  
 # 💫 About Me:
 🚀 AWS DevOps Engineer | Automation Enthusiast<br>🔹 Docker | Kubernetes | Jenkins | Terraform<br>🔹 AWS | Linux | Git & GitHub<br>🔹 Building CI/CD pipelines & Infrastructure as Code
 
